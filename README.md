@@ -4,31 +4,31 @@
 
 * Linux
   
-Sistema de arquivos no Linux
-Comandos mais utilizados
-Redirecionamento e Pipes
-Gerenciamento de pacotes no Linux 
-Gerenciamento de processos no Linux 
-Utilizando SSH
+Sistema de arquivos no Linux,
+Comandos mais utilizados,
+Redirecionamento e Pipes,
+Gerenciamento de pacotes no Linux,
+Gerenciamento de processos no Linux, 
+Utilizando SSH.
 
 * Git
 
-Configuração e criação de um repositório
-Git Gerenciamento de commits
-Gerenciamento de branchs
-Repositório remoto com GitHub
-Fluxo de trabalho e boas práticas
+Configuração e criação de um repositório,
+Git Gerenciamento de commits,
+Gerenciamento de branchs,
+Repositório remoto com GitHub,
+Fluxo de trabalho e boas práticas.
 
 * Docker
 
-Imagem x Containers 
-Arquitetura do Docker 
-Execução de containers 
-Criação de imagens
-Docker Registry 
-Docker Network 
-Docker Volume 
-Docker Compose
+Imagem x Containers, 
+Arquitetura do Docker,
+Execução de containers,
+Criação de imagens,
+Docker Registry, 
+Docker Network, 
+Docker Volume, 
+e Docker Compose.
  
 * Kubernetes
 
