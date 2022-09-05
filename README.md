@@ -1,7 +1,92 @@
 ### Olá! Eu sou o Eudes Paz 👋
 
-- 🔭 Administração (Docker, Clusters e Containers), com gerenciamento do Portainer, criação e evolução de soluções de infraestrutura em times ágeis de desenvolvimento de produto (DevOps).
+- Conhecimentos; 
 
+* Linux  
+Sistema de arquivos no Linux
+Comandos mais utilizados
+Redirecionamento e Pipes
+Gerenciamento de pacotes no Linux 
+Gerenciamento de processos no Linux 
+Utilizando SSH
+
+* Git
+Configuração e criação de um repositório
+Git Gerenciamento de commits
+Gerenciamento de branchs
+Repositório remoto com GitHub
+Fluxo de trabalho e boas práticas
+
+* Docker
+Imagem x Containers 
+Arquitetura do Docker 
+Execução de containers 
+Criação de imagens
+Docker Registry 
+Docker Network 
+Docker Volume 
+Docker Compose
+ 
+* Kubernetes
+Arquitetura do Kubernetes
+Formas de criar um cluster Kubernetes
+Deployments, ReplicaSets, Pods e Services
+Namespaces, LimitRange e ResourceQuota
+ConfigMap e Secrets
+Liveness, Readiness e Startup Probes
+Horizontal Pod Autoscaler e Vertical Pod Autoscaler
+Init Container, Post Start e Pré Stop
+Volumes no Kubernetes
+StatefullSet, DaemonSet, Jobs e CronJobs
+Node Selector, Node Affinity, Pod Affinity e Pod Anti Affinity
+Taint e Tolerations
+NetworkPolicy
+Service Account e RBAC
+Ingress Controller com NGINX e Traefik
+Helm
+Blue/Green, Ramped e Canary Deployment
+Cert-Manager e Let’s Encript
+Gerenciamento de Cluster Kubernetes com Kubeadm
+
+* Pipeline CI/CD com Jenkins
+O que é pipeline de CI/CD
+Instalação
+Gerenciamento de plugins
+Gerenciamento de credenciais
+Jenkinsfile
+Criação de pipeline de CI
+Criação de pipeline de CD conectando com Kubernetes
+
+* Terraform
+Terraform Language
+Terraform Settings
+Terraform Providers
+Resource, Data Sources, Variables e Outputs
+Organização de um projeto Terraform 
+Terraform Meta-Arguments
+Provisioners
+Funções e Expressões Módulos
+Estado e Ciclo de Vida 
+Terraform Debug 
+Terraform Workspace 
+Kubernetes Provider 
+Helm Provider
+ 
+* Ansible
+Modules, Collections, Plays e Playbook e Hosts
+Ansible Inventory
+Variáveis, condicionais e loops
+Execução Ansible Ad-hoc
+Ansible Galaxy
+Ansible Roles
+Dynamic Inventory
+
+* Monitoramento e o Prometheus
+Instalação do Prometheus no Docker e no Kubernetes
+Coletando métricas das aplicações
+Consulta de métricas com PromQL
+Definição de alertas e notificações com AlertManager
+ 
 ##
 
 <div align="center">
