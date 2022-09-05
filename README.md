@@ -2,7 +2,7 @@
 
 - Conhecimentos; 
 
-* Linux  
+* Linux;  
 Sistema de arquivos no Linux
 Comandos mais utilizados
 Redirecionamento e Pipes
@@ -10,14 +10,14 @@ Gerenciamento de pacotes no Linux
 Gerenciamento de processos no Linux 
 Utilizando SSH
 
-* Git
+* Git;
 Configuração e criação de um repositório
 Git Gerenciamento de commits
 Gerenciamento de branchs
 Repositório remoto com GitHub
 Fluxo de trabalho e boas práticas
 
-* Docker
+* Docker;
 Imagem x Containers 
 Arquitetura do Docker 
 Execução de containers 
@@ -27,7 +27,7 @@ Docker Network
 Docker Volume 
 Docker Compose
  
-* Kubernetes
+* Kubernetes;
 Arquitetura do Kubernetes
 Formas de criar um cluster Kubernetes
 Deployments, ReplicaSets, Pods e Services
@@ -48,7 +48,7 @@ Blue/Green, Ramped e Canary Deployment
 Cert-Manager e Let’s Encript
 Gerenciamento de Cluster Kubernetes com Kubeadm
 
-* Pipeline CI/CD com Jenkins
+* Pipeline CI/CD com Jenkins;
 O que é pipeline de CI/CD
 Instalação
 Gerenciamento de plugins
@@ -57,7 +57,7 @@ Jenkinsfile
 Criação de pipeline de CI
 Criação de pipeline de CD conectando com Kubernetes
 
-* Terraform
+* Terraform;
 Terraform Language
 Terraform Settings
 Terraform Providers
@@ -72,7 +72,7 @@ Terraform Workspace
 Kubernetes Provider 
 Helm Provider
  
-* Ansible
+* Ansible;
 Modules, Collections, Plays e Playbook e Hosts
 Ansible Inventory
 Variáveis, condicionais e loops
@@ -81,7 +81,7 @@ Ansible Galaxy
 Ansible Roles
 Dynamic Inventory
 
-* Monitoramento e o Prometheus
+* Monitoramento e o Prometheus;
 Instalação do Prometheus no Docker e no Kubernetes
 Coletando métricas das aplicações
 Consulta de métricas com PromQL
