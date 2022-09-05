@@ -11,6 +11,7 @@ Gerenciamento de processos no Linux
 Utilizando SSH
 
 * Git;
+
 Configuração e criação de um repositório
 Git Gerenciamento de commits
 Gerenciamento de branchs
