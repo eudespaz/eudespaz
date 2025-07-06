@@ -106,10 +106,14 @@ Definição de alertas e notificações com AlertManager
   ##
   
 <div align="center"> 
-  <a href="https://www.linkedin.com/in/eudes-paz-395ba7186/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/eudespaz/eudespaz/blob/output/github-contribution-grid-snake.svg)
-  
+  <a href="https://www.linkedin.com/in/eudes-paz-395ba7186/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+
+  <br><br>
+
+  <img src="https://github.com/eudespaz/eudespaz/blob/output/github-contribution-grid-snake.svg" alt="Snake animation">
 </div>
+
   
   
