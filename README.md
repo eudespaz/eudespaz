@@ -113,7 +113,8 @@ Definição de alertas e notificações com AlertManager
 
 ---
 
-![Snake animation](https://github.com/eudespaz/eudespaz/blob/output/github-contribution-grid-snake.svg?raw=true)
+![snake gif](https://github.com/eudespaz/eudespaz/blob/output/github-contribution-grid-snake.svg?raw=true)
+
 
 
   
